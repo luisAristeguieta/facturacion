@@ -18,7 +18,4 @@ public class ProductoDigital extends Producto {
 		return "ProductoDigital [url=" + url + "]";
 	}
 
-	
-	
-	
 }
